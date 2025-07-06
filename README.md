@@ -1,4 +1,4 @@
-# Atomic CRM
+# Atomic CRM at GFP
 
 A full-featured CRM built with React, react-admin, and Supabase.
 
